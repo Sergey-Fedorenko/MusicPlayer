@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="textview"><b>TextView</b>></string>
+</resources>
